@@ -1,0 +1,14 @@
+h1{
+    font-family: serif;
+}
+.name-highlight{
+    color: aqua;
+}
+.half-left{
+    width: 30%;
+    float: left;
+}
+.half-right{
+    width: 30%;
+    float: right;
+}
